@@ -1,0 +1,4 @@
+ng serve --open -> run angular server
+npm run server  -> run json    server
+ng generate component components/add-task
+ng generate service services/task
